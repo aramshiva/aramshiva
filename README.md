@@ -6,5 +6,7 @@ I use ```HE/HIM``` pronouns
 ## Suggestions
 Visit My Websites Code [`aramshiva/website`](https://github.com/aramshiva/aramsh)!
 Check Out My Simple Program to make wordle in python! [`aramshiva/pywordle`](https://github.com/aramshiva/pywordle)
-## Languages:
-### Next.js, React, Tailwind, TypeScript, Python, HTML/CSS, Python, Figma
+## Skills:
+### Next.js, React, Tailwind, TypeScript, Python, HTML/CSS, Python, Figma, Pygame, Prototyping, JavaScript
+## Hobbies
+I use a Panasonic LUMIX GX85 to take [photos](https://flickr.com/aramshiva) 
