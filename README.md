@@ -9,4 +9,4 @@ Check Out My Simple Program to make wordle in python! [`aramshiva/pywordle`](htt
 ## Skills:
 ### Next.js, React, Tailwind, TypeScript, Python, HTML/CSS, Python, Figma, Pygame, Prototyping, JavaScript
 ## Hobbies
-I use a Panasonic LUMIX GX85 to take [photos](https://flickr.com/aramshiva) 
+I use a Panasonic LUMIX GX85 to take [photos](https://www.flickr.com/photos/191297914@N06)
