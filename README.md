@@ -9,6 +9,6 @@ I am currently a mentee for [HCB](https://hackclub.com/hcb), a platform for teen
 Visit My Websites Code [`aramshiva/website`](https://github.com/aramshiva/aramsh)!
 Check Out My Simple Program to make wordle in python! [`aramshiva/pywordle`](https://github.com/aramshiva/pywordle)
 ## Skills:
-### Next.js, React, Tailwind, TypeScript, Python, HTML/CSS, Python, Figma, Pygame, Prototyping, JavaScript, Ruby, Ruby on Rails
+### HTML5, Javascript, CSS, Python, React, Next.js, Tailwind CSS, Ruby, Rails, Node.js, Typescript, Git
 ## Hobbies
 I use a Panasonic LUMIX GX85 to take [photos](https://www.flickr.com/photos/191297914@N06)
