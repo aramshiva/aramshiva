@@ -4,7 +4,7 @@
 I am learning just for fun!
 I use ```HE/HIM``` pronouns
 
-I am currently a mentee for [HCB](https://hackclub.com/hcb), a platform for teenagers to make their own non-profits simple and easy.
+I am currently a voulnteer engineer for [HCB](https://hackclub.com/hcb), a platform for teenagers to make their own non-profits simple and easy.
 ## Suggestions
 Visit My Websites Code [`aramshiva/website`](https://github.com/aramshiva/aramsh)!
 Check Out My Simple Program to make wordle in python! [`aramshiva/pywordle`](https://github.com/aramshiva/pywordle)
