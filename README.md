@@ -1,3 +1,3 @@
-Design Engineer based out of Seattle
+👋 I'm Aram
 
 [Email](mailto:me@aram.sh) | [Website](https://aram.sh)
