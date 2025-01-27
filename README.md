@@ -10,3 +10,5 @@ You can leave now.
 [![image](https://github.com/user-attachments/assets/67c2c9fd-2799-4aff-b02b-0ac6100ed742)](https://github.com/aramshiva)
 [![image](https://github.com/user-attachments/assets/7366a656-3743-4b6a-bff7-9f204bfa7ef2)](https://hello.aram.sh/guestbook)
 [![image](https://github.com/user-attachments/assets/14100160-dbf1-4497-a1b6-809940cf6b6c)](https://hello.aram.sh)
+
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
